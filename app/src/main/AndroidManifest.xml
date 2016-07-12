@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.qrcode">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppThemeToolbar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Life.SendCardActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Life.DevelopingActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Life.LogActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Life.MessageActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Personal.Cell.CellActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Personal.Cell.Complaint.ComplaintActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Personal.Cell.Warranty.WarrantyActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Personal.EntranceActivity"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Personal.MicroCardActivity" />
+        <activity android:name=".Personal.FeedBackActivity" />
+        <activity android:name=".Personal.AboutActivity" />
+        <activity android:name=".Personal.ApplyActivity" />
+        <activity android:name=".Personal.ModifyPwdActivity"></activity>
+    </application>
+
+</manifest>
