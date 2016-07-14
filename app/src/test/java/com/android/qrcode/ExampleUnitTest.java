@@ -1,4 +1,4 @@
-package com.android.qrcode;
+package com.android.qrcodeclient;
 
 import org.junit.Test;
 

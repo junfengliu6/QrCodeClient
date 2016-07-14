@@ -12,7 +12,7 @@
 
     <!--tab title-->
     <string name="life_title">生活</string>
-    <string name="card_title">微卡</string>
+    <string name="card_title">获取微卡</string>
     <string name="personal_title">我的</string>
 
 
@@ -67,5 +67,11 @@
     <string name="preservation">保存</string>
     <string name="cancel">取消</string>
     <string name="confirm">确定</string>
+
+    <!--login-->
+    <string name="intput_psw">1234567890.,zxcvbnmasdfghjklqwertyuiopZXCVBNMASDFGHJKLQWERTYUIOP</string>
+    <string name="register_title">注册</string>
+    <string name="forget_pwd_title">忘记密码</string>
+    <string name="forget_pwd_title_next">下一步</string>
 
 </resources>

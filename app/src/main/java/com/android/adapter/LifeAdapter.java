@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.android.model.LifeItemBean;
-import com.android.qrcode.R;
+import com.android.qrcodeclient.R;
 import com.bumptech.glide.Glide;
 
 import java.util.List;

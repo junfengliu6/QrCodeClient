@@ -5,10 +5,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.android.model.LifeItemBean;
 import com.android.model.LogBean;
-import com.android.qrcode.R;
-import com.bumptech.glide.Glide;
+import com.android.qrcodeclient.R;
 
 import java.util.List;
 

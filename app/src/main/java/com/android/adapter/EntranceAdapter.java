@@ -6,7 +6,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.android.model.EntranceBean;
-import com.android.qrcode.R;
+import com.android.qrcodeclient.R;
 
 import java.util.List;
 

@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.android.model.BannerItemBean;
-import com.android.qrcode.R;
+import com.android.qrcodeclient.R;
 import com.android.utils.ViewFindUtils;
 import com.bumptech.glide.Glide;
 import com.flyco.banner.widget.Banner.BaseIndicatorBanner;

@@ -9,7 +9,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-import com.android.qrcode.R;
+import com.android.qrcodeclient.R;
 import com.android.utils.Utils;
 
 import butterknife.Bind;
