@@ -112,6 +112,16 @@
     </filter>
   </component>
   <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://192.168.48.142/C960E/Project/生产PQC/C950E/C950PQC" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://192.168.48.142/C960E/Project/生产PQC/C950E/C950PQC" />
+      </list>
+    </option>
     <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
   </component>
 </application>
